@@ -1,0 +1,6 @@
+{
+  "name": "Lengua Castellana y Literatura 1.º ESO",
+  "description": "Plataforma interactiva bilingüe español-armenio para 1.º de ESO: teoría completa, ejercicios interactivos, lecturas comentadas y exámenes finales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
